@@ -1,0 +1,49 @@
+
+/* Remove the navbar's default rounded borders and increase the bottom margin */
+.navbar {
+  margin-bottom: 50px;
+  border-radius: 0;
+}
+
+/* Remove the jumbotron's default bottom margin */
+ .jumbotron {
+  margin-bottom: 0;
+  background-color: #ff914d;
+  color: #503b3b;
+}
+
+.panel > .panel-heading {
+    background-image: none;
+    background-color: #ff914d;
+    border-color:#ff914d;
+    color:black;
+    font-size: 20px
+}
+
+.orhinge {
+  border-color: #ff914d;
+}
+
+.red {
+  color: red;
+}
+
+.heading {
+  font-size: 50px;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: #ff914d;
+  color: #ffffff;
+}
+
+.subheading {
+  font-size: 30px;
+  text-align: left;
+  text-decoration: underline;
+  text-decoration-color: #ff914d;
+  color: #ffffff;
+}
+
+p{
+  color: White;
+}
