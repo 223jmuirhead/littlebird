@@ -46,4 +46,17 @@
 
 p{
   color: White;
+  font-size: 20px;
+}
+
+ul {
+  font-size: 15px;
+}
+
+.wide{
+  width: 100%;
+}
+
+.form-inline {
+  font-size: 20px
 }
